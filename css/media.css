@@ -1,0 +1,468 @@
+@media screen and (max-width:1250px) {
+  .top-nav {
+   width: 100%;
+  }
+  .header__nav {
+    display: none;
+  }
+  .block-2__title h1 {
+    font-size: 55px;
+  }
+  .block-2__title h1 {
+    margin-top: -115px; 
+  }
+ 
+  .zvezda-img img {
+    display: none;
+  }
+  .container__carty {
+    margin-top: 150px;
+    width: 800px;
+    height: 270px;
+  }
+  /* BIRINCHI BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+
+  .solution__cata-block1 {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    }
+  .solution__cata-block2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .solution__carta-1 {
+    margin-top: 30px;
+  }
+/* ekinchi BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+
+    .texnologia1 {
+        padding: 0 40px;
+    }
+
+
+    .oes {
+        margin-top: 100px;
+    }
+
+
+    .sistema-oes {
+        display: none;
+    }
+
+    .vidy__carty {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+@media screen and (max-width:991px) {
+
+    .cosiak {
+        padding: 0 20px;
+    }
+  
+    .bloc-end {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .swiper-slide img {
+        width: 100%;
+    }
+    .top-nav {
+        padding: 0 20px;
+    }
+    .menu {
+        padding: 0 20px;
+    }
+
+    .block-2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .container__carty {
+        width: 700px;
+        height: 300px;
+        margin-top: 50px;
+    }
+    /* BIRINCHI BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+    .solution {
+        margin-top: 380px;
+      }
+      /* ekinchi BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+    .fon img {
+        display: none;
+    }
+    .texnalogia {
+        margin-top: -1300px;
+        
+    }
+    .texnologia1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .dis-none {
+        display: none;
+    }
+    .ket {
+        display: none;
+    }
+    .lms__img  {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .lms__img img {
+        margin-bottom: 20px;
+
+    }
+    .lms h1 {
+        padding: 0 20px;
+    }
+ 
+    @media screen and (max-width:972px) {
+        .oes {
+            margin-top: 378px;
+        }
+    }
+    .oes__carty {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .oes__carty__P {
+        justify-content: center;
+        margin: 20px;
+    }
+    .otstup {
+        margin-bottom: 90px;
+    }
+
+    
+    .raz {
+        display: flex;
+        flex-direction: column;
+        /* padding-top: -120px; */
+        gap: 10px;
+    }
+    .sifry h1 {
+        padding: 20px;
+    }
+    .sifry {
+        height: 430px;
+    }
+
+    .dov__icon {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .plus  {
+        display: flex;
+        /* justify-content: center; */
+        margin-left: 80px;
+        text-align: left;
+    }
+    .center__carty {
+        padding: 0 20px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
+@media screen and (max-width:767px) {
+
+    .cosiak {
+        padding: 0 20px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .block-end {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .foto {
+        display: none;
+    }
+    .reshenie h1 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+
+    .top-nav {
+        width: 100%;
+        justify-content: center;
+        padding: 0 20px;
+    }
+
+    .lina2 {
+        padding: 0 30px;
+    }
+    .menu {
+        /* padding: 70px; */
+        padding-top: 0;
+    }
+    .header__logo {
+        margin-right: 350px;
+    }
+    .container__carty {
+        width: 500px;
+    }
+    .block__img img {
+        width: 500px;
+    }
+    /* BIRINCHI BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+   .fon {
+    display: none;
+   }
+   .texnalogia {
+    padding-top: 2000px;
+   }
+    
+
+   .oes {
+    margin-top: 680px;
+   }
+   .doveria__icon1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+   }
+   .doveria__icon2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: -1200px;
+   }
+   .dov__icon {
+    display: flex;
+    margin-left:  100px;
+
+   }
+   .doveria button {
+    margin-top: 200px;
+   }
+   .lina {
+    padding-left: 0;
+   }
+   .plus {
+    margin-left: 30px;
+   }
+  
+}
+@media screen and (max-width:632px) {
+    .oes {
+        margin-top: 1350px;
+    }
+}
+@media screen and (max-width:567px) {
+
+    .swiper-h1 {
+        font-size: 38px;
+    }
+
+    .voprosy h4 {
+        padding: 70px  20px 0 20px;
+    }
+
+    .lina_1 {
+        display: none;
+    }
+    .top-nav {
+    padding: 0 20px;
+    width: 100%;
+    justify-content: center;
+    }
+    .header__logo {
+        margin-right: 200px;
+    }
+    
+    .block-2__title {
+        margin-left: 18px;
+    }
+    .block-2__title img {
+        display: none;
+    }
+     .block__img img {
+        width: 400px;
+    }
+    .container__carty {
+        width: 400px;
+        height: 340px;
+    }
+    /* BIRINCHI BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+
+    .solution {
+        margin-top: 400px;
+      }
+      .solution p {
+        padding: 0 30px;
+      }
+
+      .texnologia1 p {
+        font-size: 21px;
+    }
+    .texnologia__icon {
+        width: 80px;
+        height: 80px;
+        padding: 13px;
+    }
+    .texnologia__icon img {
+        width: 55px;
+        
+        /* height: 60px; */
+    }
+
+    .oes__carty1 {
+        height:250px ;
+        margin: 0 20px;
+    }
+    .otstup {
+        margin-bottom: 90px;
+        
+    }
+    .sifry {
+        /* margin-top: 1000px; */
+        height: 700px;
+        background-size: cover;
+    }
+    .sifry__san {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        
+    }
+    .raz {
+        margin-left: 130px;
+        gap: 50px;
+    }
+    
+   .dov__icon {
+    display: flex;
+    margin-left:  50px;
+
+   }
+   .konsultasia h2 {
+    font-size: 25px;
+   }
+   .vidy__carty h2 {
+    padding: 0 30px;
+   }
+   .vidy__carty p {
+    padding: 0 30px;
+   }
+   .vidy-proktorginga h1 {
+    padding: 0 30px;
+   }
+   .vidy__carty img {
+    width: 300px;
+   }
+   .vidy__carty {
+    margin-left: -40px;
+   }
+  
+}
+@media screen and (max-width:420px) {
+    .reshenie h1 {
+        font-size: 38px;
+    }
+    .eki {
+        margin-top: 50px;
+    }
+    .top-nav {
+        padding: 0 20px;
+        margin-top: -20px;
+    }
+    .header__logo {
+        margin-right: 120px;
+    }
+    .header__logo img {
+        width: 150px;
+        margin-right: 80px;
+    }
+    .menu {
+        padding: 0 20px;
+    }
+    .container__carty {
+        width: 350px;
+        height: 400px;
+    }
+    .block__img img {
+        width: 370px;
+    }
+    .block-2__title h1 {
+        font-size: 40px;
+        margin-top: -170px;
+    }
+    .block-2__title {
+        margin-left: 10px;
+    }
+
+   /* BIRINCHI BLOCK END ///////////////////////////////////////////////////////////////////////////////////////////// */
+
+   .solution h1 {
+    font-size: 38px;
+   }
+   .solution {
+    margin-top: 300px;
+   }
+   .solution__iconca  {
+    margin-left: 15px;
+    width: 80px;
+    height: 80px;
+    padding: 13px;
+   }
+   .solution__iconca img{
+    padding: 2px;
+    width: 55px;
+    height: 55px;
+   }
+
+   .oes__carty__P {
+    font-size: 40px;
+   }
+   .oes {
+    margin-top: 1100px;
+   }
+   .oes__icon img  {
+    width: 70px;
+    height: 70px;
+   }
+   .dov__icon {
+    display: flex;
+    margin-left:  20px;
+   }
+   .sifry h1 {
+    font-size: 38px;
+   }
+   .san__vnutyri {
+    font-size: 45px;
+   }
+   .san__p {
+    font-size: 18pxы;
+   }
+   .doveria h1 {
+    font-size: 38px;
+   }
+   .lms h1 {
+    font-size: 38px;
+   }
+   .lms p {
+    font-size: 18px;
+    padding: 0 10px;
+   }
+   .vidy__carty {
+    margin-left: -100px;
+   }
+
+   .voprosy h1 {
+    font-size: 38px;
+   }
+   .plus p {
+    font-size: 22px;
+   }
+   .voprosy h4 {
+    font-size: 22px;
+   }
+}
